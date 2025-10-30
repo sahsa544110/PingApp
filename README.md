@@ -1,4 +1,4 @@
-<div align="center"> <h1> <img src="https://raw.githubusercontent.com/particle-one/multiping/main/app.ico" width="48" alt="Ping Tool Icon"> Ping Tool Pro </h1> <p> <strong>Настільний застосунок для моніторингу та діагностики мережі в реальному часі.</strong> </p> <p> <img alt="Python" src="https://img.shields.io/badge/Made%20with-Python-3776AB.svg?style=for-the-badge&logo=python"> <img alt="PyQt" src="https://img.shields.io/badge/UI%20with-PyQt6-41CD52.svg?style=for-the-badge&logo=qt"> </p> </div>
+<div align="center"> <p> <strong>Настільний застосунок для моніторингу та діагностики мережі в реальному часі.</strong> </p> <p> <img alt="Python" src="https://img.shields.io/badge/Made%20with-Python-3776AB.svg?style=for-the-badge&logo=python"> <img alt="PyQt" src="https://img.shields.io/badge/UI%20with-PyQt6-41CD52.svg?style=for-the-badge&logo=qt"> </p> </div>
 
 <div align="center"> <em>(Тут чудово виглядало б анімоване .gif вашої програми в дії!)</em>
 
