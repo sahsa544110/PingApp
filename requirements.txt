@@ -1,0 +1,8 @@
+PyQt6
+ping3
+qtawesome
+pyqtgraph
+scipy
+matplotlib
+icmplib
+playsound==1.2.2
